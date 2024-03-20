@@ -20,3 +20,26 @@ while a < n:
     a, b = b, a + b
 
 print(a == n)
+
+
+
+//Questão 3:
+a)9 = numeros impares
+b)128 = sequencia do dobro do numero anterior
+c)49 = numero quadrado perfeito
+d)
+e)13 = sequência de Fibonacci
+f)200 = numeros que começam com a letra "D"
+
+
+
+//Questtão 4:
+Ligo o primeiro interruptor,espero um tempo e depois desligo e em seguinda ligo o segundo.Depois vou nas salas, se vejo a lâmpada acessa é o segundo interruptor
+,a lâmpada que esta quente é o primeiro interruptor, e a que estiver fria é o terciro interruptor.
+
+
+
+//Questão 5: python
+ctr = input("Escreva uma palavra:\n")[::-1]
+print(ctr)
+
